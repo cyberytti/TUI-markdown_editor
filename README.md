@@ -12,17 +12,35 @@ Below are previews of the different screens available in the Markdown editor:
 ### 🏠 Home Screen
 ![Home Screen](https://github.com/cyberytti/TUI-markdown_editor/blob/main/assets/home_page.png)
 
+*This is the home screen where you write raw Markdown.*
+
+---
+
 ### 👁️ Preview Mode (Dark)
 ![Preview Screen](https://github.com/cyberytti/TUI-markdown_editor/blob/main/assets/preview_screen.png)
+
+*Here you can preview the Markdown without saving it.*
+
+---
 
 ### 👁️ Preview Mode (Light)
 ![Change Theme](https://github.com/cyberytti/TUI-markdown_editor/blob/main/assets/change_theme.png)
 
+*Preview screen with a white background.*
+
+---
+
 ### 💾 Save File
 ![Save Screen](https://github.com/cyberytti/TUI-markdown_editor/blob/main/assets/save_file.png)
 
+*This screen allows you to enter a file name and save your written Markdown.*
+
+---
+
 ### ❓ Help Menu
 ![Help Screen](https://github.com/cyberytti/TUI-markdown_editor/blob/main/assets/help_page.png)
+
+*This is the help section for this tool.*
 
 ---
 
